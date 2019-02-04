@@ -8,7 +8,7 @@ var readln = (typeof readline === 'function') ? (readline) : (function() {
  }());
  var Count = new Number(10);
   var Element = "";
- System.out.print("Enter any 10 numbers do want to print mmaximum number:");
+ System.out.print("Enter any 10 numbers do you want to print mmaximum number:");
  Element = parseInt(readln());
  var ReadElement = "";
  Count[0] = Element;
